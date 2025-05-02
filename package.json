@@ -1,0 +1,32 @@
+{
+  "name": "finance-visualizer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@shadcn/ui": "^0.0.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.5.0",
+    "lucide-react": "^0.503.0",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.14.1",
+    "next": "15.3.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.56.1",
+    "recharts": "^2.15.3",
+    "shadcn": "^2.5.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.1"
+  }
+}
